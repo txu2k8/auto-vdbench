@@ -1,2 +1,2 @@
-# vdbench-test
-vdbench自动执行、收集结果、简单分析
+# auto-vdbench
+工具自动化系列之vdbench，自动执行、结果收集、结果分析。
